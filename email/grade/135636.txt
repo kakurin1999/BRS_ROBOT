@@ -1,0 +1,12 @@
+ID: 135636
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 545: rating system report
+Текст: Faculty:     Академия архитектуры и искусств
+Department:  
+Type:        Преподаватель
+Sender:      Шахова Ирина Евгеньевна
+
+Title: сохранить УКД
+Message: Подскажите, как сохранить заполненную УКД?
+

@@ -1,0 +1,12 @@
+ID: 138542
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 877: rating system report
+Текст: Faculty:     Академия архитектуры и искусств
+Degree:      master  Grade: 2  Group: 18
+Type:        Студент
+Sender:      Матюша Ольга Игоревна
+
+Title: не отображается рейтинг
+Message: Рейтинг учебных дисциплин за прошлые семестры (кроме последнего) онулирован. В чем проблема?
+

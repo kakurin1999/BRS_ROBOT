@@ -1,0 +1,12 @@
+ID: 122455
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 111: rating system report
+Текст: Faculty:     Академия психологии и педагогики
+Department:  
+Type:        Преподаватель
+Sender:      Жолудева Светлана Васильевна
+
+Title: Преподаватели заполнение http://grade.sfedu.ru
+Message: в списке нет кафедры организационной и прикладной психологии образования (190 по 1С)
+

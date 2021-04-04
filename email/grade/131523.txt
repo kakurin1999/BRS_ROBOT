@@ -1,0 +1,12 @@
+ID: 131523
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 411: rating system report
+Текст: Faculty:     Институт математики, механики и компьютерных наук
+Degree:      bachelor  Grade: 2  Group: 6
+Type:        Студент
+Sender:      Чемеркин Даниил Николаевич
+
+Title: Api
+Message: Добрый вечер, у вас есть Api?
+

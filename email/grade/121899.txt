@@ -1,0 +1,12 @@
+ID: 121899
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 74: rating system report - Список студентов отсутствует
+Текст: Faculty:     Академия архитектуры и искусств
+Department:  
+Type:        Преподаватель
+Sender:      Золотарева Лариса Александровна
+
+Title: Список студентов
+Message: Список студентов отсутствует
+

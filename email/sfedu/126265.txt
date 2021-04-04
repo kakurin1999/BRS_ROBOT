@@ -1,0 +1,35 @@
+ID: 126265
+email: abagly@sfedu.ru
+Имя создателя: Anton Baglii 
+Тема: Пересылка логов базы данных grade с сервера pgsql-new.r61.net
+Текст: Сообщите, пожалуйста, возможно ли перенастроить сбор логов базы данных grade
+на сервере pgsql-new.r61.net.
+
+На данный момент логи postgresql на этом сервере направляются в syslog:
+
+
+show log_destination;
+
+
+&gt; syslog
+
+
+show syslog_facility;
+
+
+&gt; local0
+
+
+show syslog_ident;
+
+
+postgres
+
+
+Для сбора и анализа логов Сервиса БРС настроен сервер graylog по адресу
+grade-dev.mmcs.sfedu.ru
+
+Существует несколько способов пересылки логов туда, например установка
+graylog sidecar  вместе с filebeat
+
+

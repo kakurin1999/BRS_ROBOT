@@ -1,0 +1,12 @@
+ID: 134792
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 473: rating system report
+Текст: Faculty:     Институт наук о Земле
+Department:  
+Type:        Преподаватель
+Sender:      Грановская Наталья Васильевна
+
+Title: Оценки по учебной дисциплины
+Message: Добрый день. Как добавлять бонусные баллы? При заполнении формы они не предусмотрены
+

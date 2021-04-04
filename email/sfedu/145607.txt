@@ -1,0 +1,15 @@
+ID: 145607
+email: abagly@sfedu.ru
+Имя создателя: Anton Baglii 
+Тема: дисковая квота на grade.sfedu.ru.hosting.r61.net
+Текст: На диске контейнера для grade.sfedu.ru не осталось места
+
+grade@grade:~/site/application/logs$ df -h
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/simfs       30G   30G     0 100% /
+tmpfs            52M   60K   52M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+devtmpfs         10M     0   10M   0% /dev
+tmpfs           154M     0  154M   0% /run/shm
+
+пожалуйста, разблокируйте его, чтобы мы могли освободить диск от лишних логов и старых бэкапов

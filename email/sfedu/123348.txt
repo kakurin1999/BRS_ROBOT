@@ -1,0 +1,31 @@
+ID: 123348
+email: anastkr@sfedu.ru
+Имя создателя: 
+Тема: БРС
+Текст: Я преподаватель с почасовой оплатой труда, специалист по УМР, аспирант и не
+могу авторизоваться в СБСР, в браузере появляется "Что-то пошло не так при
+авторизации ...", что делать?
+
+
+http://grade.sfedu.ru/handler/sign/openidfinish?openid.assoc_handle=
+%7BHMAC-SHA1%7D%7B5c7cf811%7D%7BvQV4TQ%3D%3D%7D&#38;openid.claimed_id=
+https%3A%2F%2Fopenid.sfedu.ru%2Fserver.php%2Fidpage%3Fuser%3Danastkr&#38;
+openid.identity=
+https%3A%2F%2Fopenid.sfedu.ru%2Fserver.php%2Fidpage%3Fuser%3Danastkr&#38;
+openid.mode=id_res&#38;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&#38;
+openid.ns.sreg=http%3A%2F%2Fopenid.net%2Fextensions%2Fsreg%2F1.1&#38;
+openid.op_endpoint=https%3A%2F%2Fopenid.sfedu.ru%2Fserver.php&#38;
+openid.response_nonce=2019-03-04T10%3A04%3A00Zh8myAY&#38;openid.return_to=
+http%3A%2F%2Fgrade.sfedu.ru%2Fhandler%2Fsign%2Fopenidfinish&#38;openid.sig=
+C5%2BaDTlDPEs%2BVjQW8Udrjt6uyDc%3D&#38;openid.signed=
+assoc_handle%2Cclaimed_id%2Cidentity%2Cmode%2Cns%2Cns.sreg%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.email%2Csreg.nickname%2Csreg.r61globalkey%2Csreg.r61studentid%2Csreg.staff%2Csreg.student
+&#38;openid.sreg.email=anastkr%40sfedu.ru&#38;openid.sreg.nickname=anastkr&#38;
+openid.sreg.r61globalkey=ss-d6579a636ea02ab48e0f0788b9d86360e25424ab&#38;
+openid.sreg.r61studentid=87079&#38;openid.sreg.staff=1&#38;openid.sreg.student=1
+
+
+
+С Уважением, Иванченко (Кравченко) Анастасия Михайловна
+
+Институт наук о Земле.
+

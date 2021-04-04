@@ -1,0 +1,12 @@
+ID: 135037
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 485: rating system report
+Текст: Faculty:     Институт нанотехнологий, электроники и приборостроения
+Degree:      master  Grade: 2  Group: 3
+Type:        Студент
+Sender:      Бойченко Жанна Дмитриевна
+
+Title: доступ к профилю сотрудник деканата
+Message: Добрый день. Прошу на мой логин, электронную почту zboychenko@sfedu.ru подключить профиль сотрудника деканата
+

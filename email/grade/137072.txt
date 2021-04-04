@@ -1,0 +1,12 @@
+ID: 137072
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 677: rating system report
+Текст: Faculty:     Институт филологии, журналистики и межкультурной коммуникации
+Department:  
+Type:        Преподаватель
+Sender:      Канзюба Елена Анатольевна
+
+Title: открепить группу
+Message: Открепите, пожалуйста, Бакалавриат, курс 2 группа 7 | Филология
+

@@ -1,0 +1,12 @@
+ID: 126556
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 342: rating system report
+Текст: Faculty:     Физический факультет
+Department:  
+Type:        Преподаватель
+Sender:      Чечеватов Андрей Игоревич
+
+Title: Ошибка в личных данных
+Message: Я числюсь в системе как преподаватель, хотя являюсь магистром. Что можно сделать в данной ситуации?
+

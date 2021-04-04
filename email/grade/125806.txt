@@ -1,0 +1,12 @@
+ID: 125806
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 307: rating system report
+Текст: Faculty:     Академия психологии и педагогики
+Degree:      bachelor  Grade: 1  Group: 8
+Type:        Студент
+Sender:      Белик Марина Евгеньевна
+
+Title: Отсутствует фамилия преподавателя
+Message: Иностранный язык, кроме перечисленных преподавателей ведёт Толстихина Е.В.
+

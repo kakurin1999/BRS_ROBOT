@@ -1,0 +1,30 @@
+ID: 139584
+email: rdolgy@sfedu.ru
+Имя создателя: Долгий Роман Александрович 
+Тема: Ошибка при работе с БРС
+Текст: Добрый день, при работе с БРС появилась ошибка:
+
+Fatal error: Uncaught exception &#39;ErrorException&#39; with message
+&#39;file_put_contents(): Only 0 of 184 bytes written, possibly out of free disk
+space&#39; in /http/grade/site/system/classes/Kohana/Log/File.php:90 Stack trace:
+#0 [internal function]: Kohana_Core::error_handler(2, &#39;file_put_conten...&#39;, &#39;/
+http/grade/sit...&#39;, 90, Array) #1 /http/grade/site/system/classes/Kohana/Log/
+File.php(90): file_put_contents(&#39;/http/grade/sit...&#39;, &#39;\n2020-02-03 10:...&#39;,
+8) #2 /http/grade/site/system/classes/Kohana/Log.php(206): Kohana_Log_File-&gt;
+write(Array) #3 [internal function]: Kohana_Log-&gt;write() #4 {main} thrown in /
+http/grade/site/system/classes/Kohana/Log/File.php on line 90
+
+преподаватели не могут авторизоваться в системе, а у меня не формируется
+сводная ведомость.
+
+____________________________________
+
+С уважением, Долгий Роман Александрович
+
+
+ст. диспетчер Центра организации учебной работы студентов Академии архитектуры
+и искусств ААИ ЮФУ
+
+т. 218-40-00 добавочный 20-027
+
+

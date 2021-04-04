@@ -1,0 +1,12 @@
+ID: 134128
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 453: rating system report
+Текст: Faculty:     Институт математики, механики и компьютерных наук
+Department:  
+Type:        Преподаватель
+Sender:      Баглий Антон Павлович
+
+Title: Тестовое сообщение
+Message: Это тестовое сообщение в службу поддержки БРС
+

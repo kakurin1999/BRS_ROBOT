@@ -1,0 +1,160 @@
+ID: 125113
+email: osryzhova@sfedu.ru
+Имя создателя: 
+Тема: >>: Доступ в БРС
+Текст: 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+От: Microsoft Outlook
+Отправлено: 8 апреля 2019 г. 11:43
+Кому: brs@support.sfedu.ru
+Тема: Не удается доставить: Доступ в БРС
+ 
+[Office365Logo_Or]
+Не удалось доставить ваше сообщение на адрес brs@support.sfedu.ru.
+Получатель brs не найден в домене support.sfedu.ru.
+osryzhova                                       Office 365      brs
+Требуется действие                                              Получатель
+
+Неизвестный адрес в поле "Кому"
+
+
+Как это исправить
+Возможно, данный адрес не существует, либо при его вводе была допущена ошибка.
+Попробуйте выполнить одно или несколько из указанных ниже действий.
+  • Повторите отправку сообщения, выполнив указанные далее действия. В Outlook
+    — откройте этот отчет о недоставке и выберите в ленте элемент Отправить
+    заново. В Outlook в Интернете — выберите этот отчет о недоставке и нажмите
+    ссылку Щелкните здесь, чтобы повторить отправку сообщения. Затем удалите и
+    введите заново адрес получателя. Если будет предложен вариант из списка
+    автозавершения, не выбирайте его. Введя адрес, нажмите Отправить.
+  • Свяжитесь с получателем (например, позвонив ему по телефону), чтобы
+    убедиться, что этот адрес существует и указан правильно.
+  • Возможно, в настройках переадресации электронной почты получателя указан
+    неправильный адрес. Попросите получателя проверить, правильно ли работает
+    настроенная им переадресация.
+  • Очистите список автозаполнения в Outlook или Outlook в Интернете, следуя
+    инструкциям в статье Устранение проблем с доставкой электронной почты для
+    ошибок с кодом 5.1.1 в Office 365, а затем повторите отправку сообщения.
+    Перед нажатием кнопки Отправить заново введите адрес электронной почты
+    получателя.
+
+Если эта проблема не исчезнет, перешлите это сообщение своему администратору
+электронной почты. Если вы администратор электронной почты, см. раздел
+Дополнительные сведения для администраторов электронной почты ниже.
+
+
+Вам помогли эти сведения? Отправьте отзыв корпорации Майкрософт.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Дополнительные сведения для администраторов электронной почты
+Код состояния: 550 5.1.1
+
+Эта ошибка возникает при отправке сообщения на адрес электронной почты,
+который размещен не в Office 365, если адрес введен неправильно либо
+отсутствует в конечном домене. Об этой ошибке сообщает почтовый сервер
+получателя, но в большинстве случаев исправить ее должен отправитель. Если
+шаги, описанные в разделе Способы исправления, не помогли устранить проблему,
+а вы администратор электронной почты получателя, попробуйте выполнить одно или
+несколько из следующих действий:
+
+Убедитесь, что электронный адрес существует и правильно указан. Убедитесь, что
+адрес электронной почты получателя существует, указан правильно и принимает
+сообщения.
+
+Синхронизируйте службы каталогов. Если у вас гибридная среда и вы пользуетесь
+синхронизацией служб каталогов, убедитесь, что адрес электронной почты
+получателя правильно синхронизирован в Office 365 и вашем локальном каталоге.
+
+Проверьте правила переадресации. Проверьте, правильно ли работают правила
+переадресации. Переадресацию может настроить администратор с помощью правил
+потока обработки почты или параметров адреса пересылки почтового ящика либо
+получатель с помощью правил для папки "Входящие".
+
+Неправильные параметры потока обработки почты и записи MX. Эта ошибка может
+возникать из-за неправильной настройки потока обработки почты или записей MX.
+Проверьте, правильно ли настроены домен и соединители потока обработки почты в
+параметрах потока обработки почты Office 365. Проверьте также правильность
+настройки записей MX для вашего домена, обратившись для этого к регистратору
+доменных имен.
+
+Дополнительные сведения и советы по устранению этой проблемы см. в статье
+Устранение проблем с доставкой электронной почты для ошибок с кодом 550 5.1.1
+в Office 365.
+
+Сведения об исходном сообщении
+Дата создания:     08.04.2019 8:43:12
+Адрес отправителя: osryzhova@sfedu.ru
+Адрес получателя:  brs@support.sfedu.ru
+Тема:              Доступ в БРС
+
+
+Сведения об ошибке
+Обнаруженная ошибка:     550 5.1.1 &lt;brs@support.sfedu.ru&gt;: Recipient address
+                         rejected: User unknown
+Создатель имени          AM6PR05MB4214.eurprd05.prod.outlook.com
+источника данных:
+Удаленный сервер:        mail.r61.net
+
+
+Переходы между сообщениями
+        ВРЕМЯ (в                                                                                                                          ВРЕМЯ
+ПЕРЕХОД формате    ОТ                                      КОМУ                                    С                                      РЕТРАНСЛЯЦИИ
+        UTC)
+1       08.04.2019 AM6PR05MB5304.eurprd05.prod.outlook.com AM6PR05MB5304.eurprd05.prod.outlook.com mapi                                   *
+        8:43:12
+        08.04.2019                                                                                 Microsoft SMTP Server (version=TLS1_2,
+2       8:43:12    AM6PR05MB5304.eurprd05.prod.outlook.com AM6PR05MB4214.eurprd05.prod.outlook.com cipher=                                *
+                                                                                                   TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)
+
+Заголовки исходного сообщения
+
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sfedu.ru; s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=UBXgL+LUoBXAE2vUnAtgEy9l9UFnC+aQ/UjAZrQ0uZM=;
+ b=VcZyvA7WVE7krHcHY0HZQxzWUKRXenzall4+dpCE51sEcqrRFXDsJhmjqQjX0aYFTxBrr54sWSTM8HCNU6sOeDGw+SnA5as9K6fC9RBH9AcyPJgxo1wGnfJvJlIu8NBM7tsJTssHb7c+hgDrOZrA9ulzmR/N/NwZZevvktu7B6c=
+Received: from AM6PR05MB5304.eurprd05.prod.outlook.com (20.177.197.13) by
+ AM6PR05MB4214.eurprd05.prod.outlook.com (52.135.161.139) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.1771.13; Mon, 8 Apr 2019 08:43:12 +0000
+Received: from AM6PR05MB5304.eurprd05.prod.outlook.com
+ ([fe80::799c:7e22:805c:a1d3]) by AM6PR05MB5304.eurprd05.prod.outlook.com
+ ([fe80::799c:7e22:805c:a1d3%6]) with mapi id 15.20.1771.016; Mon, 8 Apr 2019
+ 08:43:12 +0000
+From: =?koi8-r?B?8tnWz9fBIO/M2MfBIPPFzcXOz9fOwQ==?= &lt;osryzhova@sfedu.ru&gt;
+To: "brs@support.sfedu.ru" &lt;brs@support.sfedu.ru&gt;
+Subject: =?koi8-r?B?5M/T1NXQINcg4vLz?=
+Thread-Topic: =?koi8-r?B?5M/T1NXQINcg4vLz?=
+Thread-Index: AQHU7eZnf5sEo1sZSEuoL3/my1QbpQ==
+Date: Mon, 8 Apr 2019 08:43:12 +0000
+Message-ID: &lt;AM6PR05MB5304465CE23108E0BCDE2619CF2C0@AM6PR05MB5304.eurprd05.prod.outlook.com&gt;
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=osryzhova@sfedu.ru;
+x-originating-ip: [46.147.208.144]
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 0fd01d05-a50d-451b-71ac-08d6bbfe3c3c
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:(2390118)(7020095)(4652040)(8989299)(4534185)(4627221)(201703031133081)(201702281549075)(8990200)(5600139)(711020)(4605104)(2017052603328)(7193020);SRVR:AM6PR05MB4214;
+x-ms-traffictypediagnostic: AM6PR05MB4214:
+x-microsoft-antispam-prvs: &lt;AM6PR05MB421479E1688AA11A1C7EBA0ACF2C0@AM6PR05MB4214.eurprd05.prod.outlook.com&gt;
+x-forefront-prvs: 0001227049
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(136003)(346002)(376002)(366004)(396003)(39850400004)(199004)(189003)(33656002)(52536014)(105586002)(3846002)(7696005)(6116002)(786003)(316002)(74316002)(5660300002)(106356001)(224303003)(2906002)(2351001)(5640700003)(19627405001)(81472002)(68736007)(97736004)(9686003)(8936002)(99286004)(6436002)(55016002)(54896002)(25786009)(2501003)(81156014)(6916009)(26005)(7736002)(53936002)(81166006)(186003)(478600001)(6506007)(4744005)(85182001)(476003)(14454004)(71200400001)(256004)(105004)(486006)(74482002)(1730700003)(102836004)(66066001)(86362001)(71190400001);DIR:OUT;SFP:1102;SCL:1;SRVR:AM6PR05MB4214;H:AM6PR05MB5304.eurprd05.prod.outlook.com;FPR:;SPF:None;LANG:ru;PTR:InfoNoRecords;A:1;MX:1;
+received-spf: None (protection.outlook.com: sfedu.ru does not designate
+ permitted sender hosts)
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam-message-info: bmyHwJv7OTbX5PksWXaqfdGlvs2Kk9peIQLVSg4avkUnqEP/w9nSaqBjhw0VQwxemVUgLWaUAZLN63NZMK7Ul9MRkj3SfK4uQS3Gq29zz30KihzICjowftarBchN5mZtu9qt/b2JhDjt85HfZcsTm+hgh7bgU1XC71zrE/qXuTmeCweD7DmgaNAZ207QYqX2mBH9MQMUW8YgKTaLKsr+43dP1SJHAXD04Drw1SQCxpqjTGMUPt+iH/FBqh2uDS3rAxD7hwaLAhPu7L/OFjprn4wZHoZrFXT0WhdrFcmosjYQNk2akFtA4qcG9Pqi3GF4akk9QPqIl7m89fBBc1n3kACGtlWvUF/q9dB74dlid3BCAqujQ9b2/5jGvs5ZWawPFn7uW2Mf4dRhEljoVEXsICVuLOfnV0TMu0VDU+CsyHo=
+Content-Type: multipart/alternative;
+        boundary="_000_AM6PR05MB5304465CE23108E0BCDE2619CF2C0AM6PR05MB5304eurp_"
+MIME-Version: 1.0
+X-OriginatorOrg: sfedu.ru
+X-MS-Exchange-CrossTenant-Network-Message-Id: 0fd01d05-a50d-451b-71ac-08d6bbfe3c3c
+X-MS-Exchange-CrossTenant-originalarrivaltime: 08 Apr 2019 08:43:12.4704
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 19ba435d-e46c-436a-84f2-1b01e693e480
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AM6PR05MB4214
+

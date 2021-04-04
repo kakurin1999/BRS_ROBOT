@@ -1,0 +1,12 @@
+ID: 140338
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 759: rating system report
+Текст: Faculty:     Институт математики, механики и компьютерных наук
+Department:  
+Type:        Преподаватель
+Sender:      Баглий Антон Павлович
+
+Title: Тестовое сообщение 13.02.20 №2
+Message: это тестовое сообщение, его тема должна быть видна в списке заявок
+

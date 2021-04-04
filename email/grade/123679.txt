@@ -1,0 +1,13 @@
+ID: 123679
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 194: rating system report
+Текст: Faculty:     Институт математики, механики и компьютерных наук
+Department:  
+Type:        Преподаватель
+Sender:      Баглий Антон Павлович
+
+Title: тестовое сообщение
+Message: это тестовое сообщение с вложенным файлом.
+Заявку можно закрывать, как только она поступит в очередь brs-users
+

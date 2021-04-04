@@ -1,0 +1,8 @@
+ID: 146497
+email: baa@sfedu.ru
+Имя создателя: Aleksandr Bukatov 
+Тема: Не работает выгрузка ведомостей в 1С через сервис синхронизации
+Текст: Проблема описана здесь
+http://gitlab.mmcs.sfedu.ru/it-lab/grade/issues/639
+ошибка возникает в grade-sync, запущенном в docker контейнере
+

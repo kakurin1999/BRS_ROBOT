@@ -1,0 +1,12 @@
+ID: 122550
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 133: rating system report
+Текст: Faculty:     Высшая школа бизнеса
+Department:  
+Type:        Преподаватель
+Sender:      Гречко Михаил Викторович
+
+Title: Благодарность
+Message: Спасибо за оперативность и помощь!!!
+

@@ -1,0 +1,12 @@
+ID: 140333
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 930: rating system report
+Текст: Faculty:     Институт математики, механики и компьютерных наук
+Department:  
+Type:        Преподаватель
+Sender:      Пустовалова Ольга Геннадиевна
+
+Title: Удаление ведомости 30911
+Message: Пожалуйста, удалите ведомость 30911.
+

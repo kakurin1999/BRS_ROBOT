@@ -1,0 +1,13 @@
+ID: 129103
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 410: rating system report
+Текст: Faculty:     Физический факультет
+Degree:      bachelor  Grade: 3  Group: 5
+Type:        Студент
+Sender:      Мирущенко Михаил Дмитриевич
+
+Title: Несовпадение баллов
+Message: Добрый день, 
+Что делать в случае несовпадения баллов в СБРС с баллами в зачётке и личном кабинете?
+

@@ -1,0 +1,12 @@
+ID: 138690
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 885: rating system report
+Текст: Faculty:     Институт наук о Земле
+Degree:      postgraduate  Grade: 1  Group: 1
+Type:        Студент
+Sender:      Шаповалов Никита Владимирович
+
+Title: Добавьте НИД
+Message: Добрый день, я аспирант 1 курса Института Наук о Земле, мне до сих пор не добавили НИД, подскажите, когда его добавят?
+

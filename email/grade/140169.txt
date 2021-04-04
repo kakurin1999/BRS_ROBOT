@@ -1,0 +1,12 @@
+ID: 140169
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 925: rating system report
+Текст: Faculty:     Институт радиотехнических систем и управления
+Department:  
+Type:        Преподаватель
+Sender:      Мелешкин Сергей Николаевич
+
+Title: Ошибка
+Message: Я, Мелешкин С.Н. автор дисциплины №32033 &#38;quot;Электроника&#38;quot;, а не Кокорева. Исправьте срочно.
+

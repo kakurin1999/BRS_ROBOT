@@ -1,0 +1,12 @@
+ID: 122085
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 83: rating system report
+Текст: Faculty:     Институт нанотехнологий, электроники и приборостроения
+Department:  
+Type:        Преподаватель
+Sender:      Чернов Николай Николаевич
+
+Title: Нет студентов
+Message: Не выгружены аспиранты из 1С гр.ЭПао2-1 курс &#38;quot;Методы нелинейной динамики...&#38;quot;№ 11493
+

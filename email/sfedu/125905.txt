@@ -1,0 +1,22 @@
+ID: 125905
+email: tivannikova@sfedu.ru
+Имя создателя: Иванникова Татьяна Николаевна 
+Тема: БРС ошибка
+Текст: Доброе утро.Не могу войти на сайт БРС .Выдает ошибку http://grade.sfedu.ru/
+handler/sign/openidfinish?openid.assoc_handle=
+%7BHMAC-SHA1%7D%7B5cc2aae3%7D%7BijCFkA%3D%3D%7D&#38;openid.claimed_id=
+https%3A%2F%2Fopenid.sfedu.ru%2Fserver.php%2Fidpage%3Fuser%3Dtivannikova&#38;
+openid.identity=
+https%3A%2F%2Fopenid.sfedu.ru%2Fserver.php%2Fidpage%3Fuser%3Dtivannikova&#38;
+openid.mode=id_res&#38;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&#38;
+openid.ns.sreg=http%3A%2F%2Fopenid.net%2Fextensions%2Fsreg%2F1.1&#38;
+openid.op_endpoint=https%3A%2F%2Fopenid.sfedu.ru%2Fserver.php&#38;
+openid.response_nonce=2019-04-26T06%3A53%3A22ZxJKfJU&#38;openid.return_to=
+http%3A%2F%2Fgrade.sfedu.ru%2Fhandler%2Fsign%2Fopenidfinish&#38;openid.sig=
+rsJdZmjdqcLmiZFRnadwh2q3E38%3D&#38;openid.signed=
+assoc_handle%2Cclaimed_id%2Cidentity%2Cmode%2Cns%2Cns.sreg%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.email%2Csreg.nickname%2Csreg.r61globalkey%2Csreg.r61studentid%2Csreg.staff%2Csreg.student
+&#38;openid.sreg.email=tivannikova%40sfedu.ru&#38;openid.sreg.nickname=tivannikova&#38;
+openid.sreg.r61globalkey=ss-c55a459f3f042d8818e4c033c07158de8c64505c&#38;
+openid.sreg.r61studentid=254700&#38;openid.sreg.staff=0&#38;openid.sreg.student=1
+
+

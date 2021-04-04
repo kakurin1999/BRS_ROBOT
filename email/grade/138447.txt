@@ -1,0 +1,12 @@
+ID: 138447
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 864: rating system report
+Текст: Faculty:     Академия архитектуры и искусств
+Department:  
+Type:        Преподаватель
+Sender:      Сухорукова Татьяна Георгиевна
+
+Title: БРС
+Message: Предыдущее сообщение прошу не учитывать. Я во всем разобралась. Система БРС работает нормально.
+

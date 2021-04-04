@@ -1,0 +1,12 @@
+ID: 137872
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 808: rating system report
+Текст: Faculty:     Академия психологии и педагогики
+Department:  
+Type:        Преподаватель
+Sender:      Ермаков Павел Николаевич
+
+Title: дисциплина 26978
+Message: Отсутствуют модули в дисциплине 26978 невозможно оценить работу студентов
+

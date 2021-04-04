@@ -1,0 +1,12 @@
+ID: 135733
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 561: rating system report
+Текст: Faculty:     Юридический факультет
+Department:  
+Type:        Преподаватель
+Sender:      Косоногова Ольга Владимировна
+
+Title: Удалить группу
+Message: Удалите,пож та,гпуппу 26651 из стр. Косоноговой О.В.
+

@@ -1,0 +1,12 @@
+ID: 134524
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 461: rating system report
+Текст: Faculty:     Академия психологии и педагогики
+Department:  
+Type:        Преподаватель
+Sender:      Спыну Светлана Юрьевна
+
+Title: ответственные 
+Message: Сообщите, пожалуйста, ответственных за БРС по Академии биологии
+

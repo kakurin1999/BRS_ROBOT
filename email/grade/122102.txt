@@ -1,0 +1,12 @@
+ID: 122102
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 84: rating system report
+Текст: Faculty:     Академия биологии и биотехнологии
+Department:  
+Type:        Преподаватель
+Sender:      Старостин Артем Николаевич
+
+Title: нет преподавателя
+Message: В курсе Физиологические основы здоровья  №13970 участвует преподаватель Глумов Александр Георгиевич с кафедры физиологии человека и животных http://sfedu.ru/www/stat_pages22.show?p=UNI/s1/D&#38;amp;params=(p_per_id=%3E120)
+

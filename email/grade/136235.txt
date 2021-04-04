@@ -1,0 +1,12 @@
+ID: 136235
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 623: rating system report
+Текст: Faculty:     Институт нанотехнологий, электроники и приборостроения
+Degree:      bachelor  Grade: 2  Group: 1
+Type:        Студент
+Sender:      Еюкин Александр Михайлович
+
+Title: Длительная проверка контрольных работ
+Message: Где баллы за контрольную работу по случайным величинам?
+

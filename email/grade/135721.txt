@@ -1,0 +1,12 @@
+ID: 135721
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 557: rating system report
+Текст: Faculty:     Институт филологии, журналистики и межкультурной коммуникации
+Department:  
+Type:        Преподаватель
+Sender:      Канзюба Елена Анатольевна
+
+Title: Дисциплины нет в учебном плане
+Message: Дисциплины 26398 нет в учебном плане!
+

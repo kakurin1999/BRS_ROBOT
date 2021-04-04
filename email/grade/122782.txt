@@ -1,0 +1,12 @@
+ID: 122782
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 151:  Институт наук о Земле. неправильный предмет и преподаватель.
+Текст: Faculty:     Институт наук о Земле
+Degree:      bachelor  Grade: 2  Group: 3
+Type:        Студент
+Sender:      Ханов Тойлы 
+
+Title: ошибка
+Message: у меня по физкультуре неправильный предмет стоит и преподаватель
+

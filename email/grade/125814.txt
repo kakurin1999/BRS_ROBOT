@@ -1,0 +1,12 @@
+ID: 125814
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 308: rating system report
+Текст: Faculty:     Академия психологии и педагогики
+Degree:      bachelor  Grade: 1  Group: 8
+Type:        Студент
+Sender:      Мягкова Алина Сергеевна
+
+Title: Преподаватель неправильный
+Message: Здравствуйте, у меня по физкультуре преподаватель Наумов И.В. , а не Ковтуненко. Исправьте пожалуйста
+

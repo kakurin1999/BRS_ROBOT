@@ -1,0 +1,13 @@
+ID: 121876
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 64: rating system report
+Текст: Faculty:     Академия биологии и биотехнологии
+Department:  
+Type:        Преподаватель
+Sender:      Мясникова Маргарита Алексеевна
+
+Title: Бонуснуе баллы
+Message: Добрый день.
+Подскажите, пожалуйста, как можно убрать бонусные баллы из курса № 12587?
+

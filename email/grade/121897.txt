@@ -1,0 +1,12 @@
+ID: 121897
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 72: rating system report
+Текст: Faculty:     Академия архитектуры и искусств
+Department:  
+Type:        Преподаватель
+Sender:      Золотарева Лариса Александровна
+
+Title: Автор дисциплины
+Message: Автор дисциплины Золотарева Лариса Александровна. Как изменить автора?
+

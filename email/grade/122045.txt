@@ -1,0 +1,12 @@
+ID: 122045
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 80: rating system report
+Текст: Faculty:     Институт математики, механики и компьютерных наук
+Department:  
+Type:        Преподаватель
+Sender:      Гуда Сергей Александрович
+
+Title: test
+Message: Это тест
+

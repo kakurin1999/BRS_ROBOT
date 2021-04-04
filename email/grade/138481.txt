@@ -1,0 +1,12 @@
+ID: 138481
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 870: rating system report
+Текст: Faculty:     Институт филологии, журналистики и межкультурной коммуникации
+Department:  
+Type:        Преподаватель
+Sender:      Резниченко Анна Владимировна
+
+Title: нет группы
+Message: не высвечивается группа 1 курса ОЗО  44. 03. 01 . дошкольное образование
+

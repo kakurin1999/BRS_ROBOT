@@ -1,0 +1,12 @@
+ID: 137057
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 666: rating system report
+Текст: Faculty:     Институт филологии, журналистики и межкультурной коммуникации
+Department:  
+Type:        Преподаватель
+Sender:      Резниченко Анна Владимировна
+
+Title: 2 ведомости
+Message: прошу убрать ведомость 22775, она дублирует ведомость 26454
+

@@ -1,0 +1,12 @@
+ID: 135229
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 513: rating system report
+Текст: Faculty:     Академия архитектуры и искусств
+Department:  
+Type:        Преподаватель
+Sender:      Козлов Вячеслав Павлович
+
+Title: Ошибки
+Message: Группы 4 курса №26188 и №26189 - одинаковые! И в той и в другой группе стоят китайские студенты, нет русских.
+

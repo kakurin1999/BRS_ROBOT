@@ -1,0 +1,33 @@
+ID: 146246
+email: abagly@sfedu.ru
+Имя создателя: Anton Baglii 
+Тема: сертификат https grade.sfedu.ru и синхронизация СБРС c 1C
+Текст: Начиная с 01.06.20 возникли проблемы синхронизации между СБРС и 1С.
+При отправке http запросов к API grade.sfedu.ru с некоторых систем возникают ошибки проверки сертификата.
+Одно из сообщений об ошибке:
+
+url: (60) SSL certificate problem: certificate has expired
+More details here: http://curl.haxx.se/docs/sslcerts.html
+
+curl performs SSL certificate verification by default, using a "bundle"
+ of Certificate Authority (CA) public keys (CA certs). If the default
+ bundle file isn&#39;t adequate, you can specify an alternate file
+ using the --cacert option.
+If this HTTPS server uses a certificate signed by a CA represented in
+ the bundle, the certificate verification probably failed due to a
+ problem with the certificate (it might be expired, or the name might
+ not match the domain name in the URL).
+If you&#39;d like to turn off curl&#39;s verification of the certificate, use
+ the -k (or --insecure) option.
+
+
+под некоторыми версиями Linux
+
+и
+
+PUT https://grade.sfedu.ru/api/v0/globalDiscipline?token=a4c0b662d23cb418c60c641b2a3b22f83a0c66e5&#38;batch=json
+Error: certificate has expired
+
+под Windows 10 и Postman v7.25.2
+
+Сообщите, пожалуйста, менялся ли этот сертификат перед 01.06 или проблему следует искать в другом месте?

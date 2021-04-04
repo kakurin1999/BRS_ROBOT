@@ -1,0 +1,12 @@
+ID: 137759
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 781: rating system report
+Текст: Faculty:     Институт радиотехнических систем и управления
+Department:  
+Type:        Преподаватель
+Sender:      Будко Артём Юрьевич
+
+Title: Проблема решена
+Message: Проблема по обращению [Support #137758] Request 780 о передаче дисциплины решена.
+

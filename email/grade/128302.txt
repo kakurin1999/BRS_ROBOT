@@ -1,0 +1,12 @@
+ID: 128302
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 405: rating system report
+Текст: Faculty:     Факультет бизнеса &#38;quot;Капитаны&#38;quot;
+Department:  
+Type:        Преподаватель
+Sender:      Исаева Марина Александровна
+
+Title: Выгрузка в 1 С ведомостей
+Message: Работает ли данная опция в системе БРС?
+

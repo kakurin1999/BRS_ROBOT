@@ -1,0 +1,12 @@
+ID: 135732
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 560: rating system report
+Текст: Faculty:     Юридический факультет
+Department:  
+Type:        Преподаватель
+Sender:      Косоногова Ольга Владимировна
+
+Title: Добавить преподавателя
+Message: Доброе утро,добавьте,пож та,в дисципдину 20110 Шапошникову С.Н.(нем яз).С ув. Косоногова О.В.
+

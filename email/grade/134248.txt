@@ -1,0 +1,12 @@
+ID: 134248
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 455: rating system report
+Текст: Faculty:     Высшая школа бизнеса
+Department:  
+Type:        Преподаватель
+Sender:      Курочкин Валентин Николаевич
+
+Title: Неполадки в заполнении
+Message: Добрый день. Возникла проблема. Не происходит импортирования УКД и не работает оценивание студентов
+

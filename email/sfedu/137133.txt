@@ -1,0 +1,14 @@
+ID: 137133
+email: evsoloveva@sfedu.ru
+Имя создателя: Соловьева Екатерина Викторовна 
+Тема: так и нет аккаунта преподавателя
+Текст: Добрый вечер, я обращалась еще 3 декабря  [Support #136312] по поводу создания мне аккаунта в системе БРС, но он у меня так и не появился. Скажите, куда обращаться, чтобы аккаунт появился, если Вы не можете исправить ошибку.
+
+Структурное подразделение НИИ ФОХ ЮФУ
+Учебный план 000132592 от 15.05.2018, Магистры курс 2, группа 1, Актуальные тренды современной химии (Б1.В.ОД)
+Соловьева Екатерина Викторовна
+
+При авторизации произошла ошибка! Обратитесь в службу технической поддержки brs@sfedu.ru. Содержимое ошибки: не найден аккаунт преподавателя!
+
+http://grade.sfedu.ru/handler/sign/openidfinish?user_role=student&#38;openid.assoc_handle=%7BHMAC-SHA1%7D%7B5df93258%7D%7Boxd4OQ%3D%3D%7D&#38;openid.claimed_id=https%3A%2F%2Fopenid.sfedu.ru%2Fserver.php%2Fidpage%3Fuser%3Devsoloveva&#38;openid.identity=https%3A%2F%2Fopenid.sfedu.ru%2Fserver.php%2Fidpage%3Fuser%3Devsoloveva&#38;openid.mode=id_res&#38;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&#38;openid.ns.sreg=http%3A%2F%2Fopenid.net%2Fextensions%2Fsreg%2F1.1&#38;openid.op_endpoint=https%3A%2F%2Fopenid.sfedu.ru%2Fserver.php&#38;openid.response_nonce=2019-12-17T19%3A53%3A58ZfB1hGv&#38;openid.return_to=http%3A%2F%2Fgrade.sfedu.ru%2Fhandler%2Fsign%2Fopenidfinish%3Fuser_role%3Dstudent&#38;openid.sig=cg2DK9CUpmwEbqbeUAgTqSqUNes%3D&#38;openid.signed=assoc_handle%2Cclaimed_id%2Cidentity%2Cmode%2Cns%2Cns.sreg%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.email%2Csreg.nickname%2Csreg.r61globalkey%2Csreg.staff%2Csreg.student&#38;openid.sreg.email=evsoloveva%40sfedu.ru&#38;openid.sreg.nickname=evsoloveva&#38;openid.sreg.r61globalkey=ss-735bd6fe0c122f73c02f64e73ac3f68298a0f832&#38;openid.sreg.staff=1&#38;openid.sreg.student=0
+

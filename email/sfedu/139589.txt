@@ -1,0 +1,28 @@
+ID: 139589
+email: abagly@sfedu.ru
+Имя создателя: Anton Baglii 
+Тема: На диске для виртуальной машины для grade.sfedu.ru.hosting.r61.net закончилось место
+Текст: имемя досту по ssh к контейнеру больше не удается удалить файлы, чтобы осободить место
+
+закончилось и свободное место и inodы:
+
+root@grade:/var/log/nginx# df -hk
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/simfs      15615488 15615488         0 100% /
+tmpfs              52432       56     52376   1% /run
+tmpfs               5120        0      5120   0% /run/lock
+devtmpfs           10240        0     10240   0% /dev
+tmpfs             157280        0    157280   0% /run/shm
+
+root@grade:/var/log/nginx# df -i
+Filesystem     Inodes  IUsed IFree IUse% Mounted on
+/dev/simfs     238121 238121     0  100% /
+tmpfs           65536     53 65483    1% /run
+tmpfs           65536      1 65535    1% /run/lock
+devtmpfs        65536     53 65483    1% /dev
+tmpfs           65536      2 65534    1% /run/shm
+
+мы не знаем, как с этим справиться только изнутри ВМ.
+Пожалуйста, восстановите работоспособность этого контейнера.
+
+на его диске есть лишние файлы в /http/grade/grade/java/backup/data (и рядом в full), но ничего удалить мы уже не можем

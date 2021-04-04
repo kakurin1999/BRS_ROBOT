@@ -1,0 +1,12 @@
+ID: 121887
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 66: rating system report
+Текст: Faculty:     Академия архитектуры и искусств
+Department:  
+Type:        Преподаватель
+Sender:      Пылаев Александр Яковлевич
+
+Title: Форма контроля
+Message:  Зачёт был и должен быть дифференцированным
+

@@ -1,0 +1,21 @@
+ID: 140342
+email: abagly@sfedu.ru
+Имя создателя: Anton Baglii 
+Тема: Создание дополнительной роли для БД grade на pgsql-new.r61.net
+Текст: Для удобства работы сотрудников, занятых поддержкой пользователей СБРС, нам нужно создать специальную роль в базе данных grade на pgsql-new.r61.net с такими правами:
+
+CREATE ROLE overseer NOSUPERUSER NOCREATEDB NOCREATEROLE NOINHERIT LOGIN PASSWORD &lt;ТУТ КАКОЙ-НИБУДЬ ПАРОЛЬ&gt;;
+GRANT CONNECT ON DATABASE grade TO overseer;
+GRANT SELECT ON ALL TABLES IN SCHEMA public TO overseer;
+
+GRANT INSERT ON TABLE public.logs_signin TO overseer;
+GRANT UPDATE ON TABLE public.logs_signin TO overseer;
+GRANT INSERT ON TABLE public.logs_signin TO overseer;
+GRANT UPDATE ON TABLE public.logs_signin TO overseer;
+GRANT ALL ON SEQUENCE public.seq_logs_signin TO overseer;
+GRANT ALL ON SEQUENCE public.seq_logs_signin_detailed TO overseer;
+GRANT ALL ON TABLE public.logs_signin_detailed TO overseer;
+GRANT ALL ON TABLE public.logs_discipline_forms TO overseer;
+GRANT ALL ON SEQUENCE public.seq_logs_discipline TO overseer;
+
+сообщите, пожалуйста, можно ли это сделать.

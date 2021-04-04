@@ -1,0 +1,13 @@
+ID: 122326
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 99: rating system report- Муравьева. не тот автор 2.
+Текст: Faculty:     Факультет управления
+Department:  
+Type:        Преподаватель
+Sender:      Муравьева Наталия Николаевна
+
+Title: ошибка
+Message: Автор дисциплины указан неверно. Указан Труфанов, нужно Муравьева
+http://grade.sfedu.ru/discipline/10108/teachers
+

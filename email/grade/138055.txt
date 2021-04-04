@@ -1,0 +1,12 @@
+ID: 138055
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 834: rating system report
+Текст: Faculty:     Юридический факультет
+Department:  
+Type:        Преподаватель
+Sender:      Косоногова Ольга Владимировна
+
+Title: графа экз
+Message: графа Экзамен в дисциплине 20110 - магистры - не активна, в др группах магистрах тоже не активна эта графа.спс
+

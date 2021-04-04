@@ -1,0 +1,12 @@
+ID: 125230
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 281: rating system report
+Текст: Faculty:     Институт математики, механики и компьютерных наук
+Degree:      bachelor  Grade: 1  Group: 11
+Type:        Студент
+Sender:      Костюкова Лилия Юрьевна
+
+Title: Пропуски
+Message: Где можно узнать общее количество пропусков студента и можно ли ?
+

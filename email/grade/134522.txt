@@ -1,0 +1,12 @@
+ID: 134522
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 459: rating system report
+Текст: Faculty:     Академия психологии и педагогики
+Department:  
+Type:        Преподаватель
+Sender:      Спыну Светлана Юрьевна
+
+Title: ответственные за брс по ифжмк
+Message: сообщите, пожалуйста, ответственных за изменения в БРС по ИФЖМК.
+

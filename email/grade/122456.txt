@@ -1,0 +1,12 @@
+ID: 122456
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 112: rating system report
+Текст: Faculty:     Академия психологии и педагогики
+Department:  
+Type:        Преподаватель
+Sender:      Жолудева Светлана Васильевна
+
+Title: Дисциплина 10379 
+Message: Дисциплина МУАМ. В форме курс 1, по факту курс 3
+

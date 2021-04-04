@@ -1,0 +1,12 @@
+ID: 135902
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 583: rating system report
+Текст: Faculty:     Институт филологии, журналистики и межкультурной коммуникации
+Department:  
+Type:        Преподаватель
+Sender:      Писаренко Валентина Григорьевна
+
+Title: укд
+Message: укдгруппы4курс№25218
+

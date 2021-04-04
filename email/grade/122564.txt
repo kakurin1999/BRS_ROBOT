@@ -1,0 +1,12 @@
+ID: 122564
+email: support@grade.sfedu.ru
+Имя создателя: Grade System 
+Тема: Request 136:  test
+Текст: Faculty:     Институт радиотехнических систем и управления
+Department:  
+Type:        Преподаватель
+Sender:      Волощенко Юрий Петрович
+
+Title: test
+Message: test
+

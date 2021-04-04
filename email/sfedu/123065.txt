@@ -1,0 +1,47 @@
+ID: 123065
+email: marrodina@sfedu.ru
+Имя создателя: 
+Тема: как войти в сервис брс
+Текст: Добрый день.
+
+Пыталась зайти в брс как студент.
+
+Выдает ошибку.
+
+заходила по этой ссылке :https://grade.sfedu.ru/
+
+Вход в систему | Сервис БРС
+grade.sfedu.ru
+08.02.2019. Уважаемые преподаватели и обучающиеся! В "Сервис БРС" загружены
+дисциплины с типом ...
+
+
+ссылка на ошибку: 
+
+ http://grade.sfedu.ru/handler/sign/openidfinish?openid.assoc_handle=
+%7BHMAC-SHA1%7D%7B5c763c1f%7D%7BeH4UCQ%3D%3D%7D&#38;openid.claimed_id=
+https%3A%2F%2Fopenid.sfedu.ru%2Fserver.php%2Fidpage%3Fuser%3Dmarrodina&#38;
+openid.identity=
+https%3A%2F%2Fopenid.sfedu.ru%2Fserver.php%2Fidpage%3Fuser%3Dmarrodina&#38;
+openid.mode=id_res&#38;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&#38;
+openid.ns.sreg=http%3A%2F%2Fopenid.net%2Fextensions%2Fsreg%2F1.1&#38;
+openid.op_endpoint=https%3A%2F%2Fopenid.sfedu.ru%2Fserver.php&#38;
+openid.response_nonce=2019-02-27T07%3A28%3A31ZEf1evq&#38;openid.return_to=
+http%3A%2F%2Fgrade.sfedu.ru%2Fhandler%2Fsign%2Fopenidfinish&#38;openid.sig=
+2ocJ%2FQmIHwHl47xHenVY%2BujFVbc%3D&#38;openid.signed=
+assoc_handle%2Cclaimed_id%2Cidentity%2Cmode%2Cns%2Cns.sreg%2Cop_endpoint%2Cresponse_nonce%2Creturn_to%2Csigned%2Csreg.email%2Csreg.nickname%2Csreg.r61globalkey%2Csreg.r61studentid%2Csreg.staff%2Csreg.student
+&#38;openid.sreg.email=marrodina%40sfedu.ru&#38;openid.sreg.nickname=marrodina&#38;
+openid.sreg.r61globalkey=ss-8180e9ea2c776d29407a9a79bd192ba3b5b7f2d4&#38;
+openid.sreg.r61studentid=134158&#38;openid.sreg.staff=1&#38;openid.sreg.student=1
+
+
+
+данные вводила пароь и логин такой же как и на рабочей почте.
+
+
+С уважением,
+Родина Мария Александровна
+Специалист Ресурсного учебно-методического центра ЮФУ
+тел.: 8 (863) 2184068, 8 (863)2184000 доб. 10 188, доб. 10 189
+тел.: 8 800 550 63 11
+
