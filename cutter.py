@@ -14,3 +14,10 @@ def cutter(file_name):
         end_index = data.find('</item>', start_index)
 
 cutter('support.sfedu.ru.txt')
+
+
+
+
+
+
+
